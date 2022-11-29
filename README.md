@@ -157,7 +157,7 @@ def ubah():
 
 ![Gambar4](ss/ss4.png)
 
-- berikut tampilan ketika program dijalankan, setelah adanya perubahan data pada nomor urut 1 dan penambahan data untuk nomor urut 2
+- berikut tampilan ketika program dijalankan, setelah adanya perubahan data pada nomor urut 0 dan penambahan data untuk nomor urut 1
 
 ![Gambar5](ss/ss5.png)
 
